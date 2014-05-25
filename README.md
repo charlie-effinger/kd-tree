@@ -1,5 +1,3 @@
-Charles Effinger - CS 450g Assignment 2
-
 Overview and Use:
 
 The Fortran program 'kdtree' allows a user to create a k-d tree from scratch and
