@@ -1,0 +1,58 @@
+TEST CASES
+
+Test 0: Regular Data - mixture of ints and reals
+	input: test0.data
+	output: output0.txt
+Test 1: Regular Data - probe all points
+	input: test1.data
+	output: output1.txt
+Test 2: Regular Data - Data in different order
+	input: test2.data
+	output: output2.txt
+	NOTE: Same data as Test 1, different order.
+Test 3: Regular Data - Probe all points and some non-points
+	input: test3.data
+	output: output3.txt
+	NOTE: strange formatting
+Test 4: Unique for Two Dimensions
+	input: test4.data
+	output: output4.txt
+Test 5: Unique for One Dimension
+	input: test5.data
+	output: output5.txt
+Test 6: Only Positive Numbers 
+	input: test6.data
+	output: output6.txt
+Test 7: Only Negative Numbers
+	input: test7.data
+	output: output7.txt
+Test 8: Values on a Line/In Order
+	input: test8.data
+	output: output8.txt
+Test 9: One node 
+	input: test9.data
+	output: output9.txt
+Test 10: Bad node counts: <0, =0, non-numeric 
+	input: test10.data
+	output: output10.txt
+	NOTE: Program should crash on nun-numeric input.
+Test 11: Bad probe counts: <0, =0, non-numeric
+	input: test11.data
+	output: output11.txt
+	NOTE: Program should crash on nun-numeric input.
+Test 12: Not enough nodes
+	input: test12.data
+	output: output12.txt
+	NOTE: Program should crash.
+Test 13: Not enough probes
+	input: test13.data
+	output: test14.data
+	NOTE: Program should crash.
+Test 14: Bad input for nodes
+	input: test14.data
+	output: output14.txt
+	NOTE: Program should crash on non-numeric input.
+Test 15: Bad input for probes
+	input: test15.data
+	output: output15.txt
+	NOTE: Program should crash on nun-numeric input.

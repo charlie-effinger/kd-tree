@@ -1,0 +1,5 @@
+What is the node count? What is the probe count? Please give a probe count > 0: Please give a probe count > 0: Runtime error 106 at $00000000004013D7
+  $00000000004013D7
+  $0000000000401507
+  $0000000000400180
+

@@ -1,0 +1,15 @@
+What is the node count? What is the probe count? 
+Probe: 
+  1.0   1.0   1.1 
+Bucket: 
+  1.0   1.0   1.0 
+
+Probe: 
+  8.0   8.0   8.0 
+Bucket: 
+  1.0   1.0   1.0 
+
+Probe: 
+-10.0 -11.1 -13.2 
+Bucket: 
+  1.0   1.0   1.0 
