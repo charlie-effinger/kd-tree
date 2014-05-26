@@ -1,6 +1,6 @@
 Overview and Use:
 
-The Fortran program 'kdtree' allows a user to create a k-d tree from scratch and
+The Pascal program 'kdtree' allows a user to create a k-d tree from scratch and
 probe it for its contents. The user must provide a node count that is greater 
 than 0. Then, the user must give 'node count' 3-dimensional points, although
 a different dimension can be selected by editing the global constant DIMENSIONS 
