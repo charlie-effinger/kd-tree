@@ -1,4 +1,4 @@
-{ Charles Effinger - Program 2 }
+{ Charles Effinger }
 { This program will build and probe a k-d tree given proper input. }
 program kdTree(input, output);
 
